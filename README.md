@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Task tracker using ReactJS
+
+<img src="https://img.shields.io/badge/MADE WITH REACTJS-2CA5E0?style=for-the-badge&logoColor=white">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
