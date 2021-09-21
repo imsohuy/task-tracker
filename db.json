@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "The Big Short",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Margin Call",
+      "day": "Sep 11th at 4:20pm",
+      "reminder": true
+    },
+    {
+      "text": "Wall Street Bet",
+      "day": "Apr 4th at 4:30pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
